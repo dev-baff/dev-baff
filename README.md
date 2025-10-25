@@ -70,7 +70,8 @@ My goal is to **build web experiences that educate, simplify, and empower users*
 ### 📫 Let’s Connect
 
 - **GitHub:** [@dev-baff](https://github.com/dev-baff)  
-- **Email:** [amanfobaffour16@gmail.com](mailto:amanfobaffour16@gmail.com)
+- **Email:** [amanfobaffour16@gmail.com](mailto:amanfobaffour16@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/baffgyau](https://www.linkedin.com/in/baffgyau/)
 
 ---
 
